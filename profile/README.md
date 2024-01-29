@@ -1,4 +1,4 @@
-[![Mac Repair Man Banner](https://github.com/Mac-Repair-Man/.github/blob/main/assets/banner.png)](http://macrepairman.ca/)
+[![Mac Repair Man Banner](https://github.com/Mac-Repair-Man/.github/blob/main/assets/Mac%20Repair%20Man%20Banner.png)](http://macrepairman.ca/)
 # Mac Repair Man
 
 Welcome to our GitHub organization! We are a team of experienced technicians who provide reliable and efficient Apple device repair and maintenance services to our clients.
