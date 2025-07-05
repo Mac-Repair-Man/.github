@@ -4,7 +4,7 @@
 Welcome to our GitHub organization! We are a team of experienced technicians who provide our clients with reliable and efficient Apple device repair and maintenance services.
 
 ## Repository Information
-This repository contains the frontend codebase for our company website. It's built with modern web technologies, including HTML5, CSS3, and JavaScript, to provide our clients with a seamless and user-friendly experience.
+This repository contains the frontend codebase for our company website. It's built with modern web technologies, including AstroJS, React, Bootstrap and JQuery to provide our clients with a seamless and user-friendly experience.
 
 ## Contributing
 We welcome contributions from our team members to improve our website & software. Please follow our coding style and conventions before you make any changes. You can create a new branch for your changes, commit and push them to the remote repository, and then create a pull request for review.
